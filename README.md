@@ -1,6 +1,5 @@
 # \<welcome-element\>
-
-welcome element
+Show welcome message
 
 ## Install the Polymer-CLI
 
